@@ -1,6 +1,6 @@
 # DevTools
 
-My personal list of useful websites and tools for developers.
+My personal list of useful websites and tools for developers and designers.
 
 ## Documentation
 
