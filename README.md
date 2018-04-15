@@ -21,6 +21,8 @@ My personal list of useful websites and tools for developers and designers.
 
 ## Inspiration
 
+* [Pages](https://www.pages.xyz/) : Pages is the place to curate and discover the best web pages
+* [Fonts in Use](https://fontsinuse.com/) : Type at work in the real world
 * [CoDrops](https://tympanus.net/codrops/) : Inspiration for creative minds
 * [Dribble](https://dribbble.com) : Show and tell for designers
 * [Behance](https://www.behance.net/) : Artists portfolios and inspiration
