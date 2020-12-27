@@ -59,7 +59,7 @@ My personal list of useful websites and tools for developers and designers.
 # Icons
 
 * [HeroIcons](https://heroicons.dev/) : MIT-licensed icons by @steveschoger.
-* [System UIcons](https://systemuicons.com/) : A growing collection of simple and consistent icons specifically designed for systems and products.
+* [System UIcons](https://systemuicons.com/) : Simple and consistent icons specifically designed for systems and products.
 * [CSS Icons](https://css.gg/) : 700+ CSS Icons.
 * [Feather Icons](https://feathericons.com/) : Simply beautiful open source icons.
 * [Tabler Icons](https://tablericons.com/) : Fully customizable free SVG icons. (MIT license). 
