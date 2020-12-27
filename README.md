@@ -26,7 +26,12 @@ My personal list of useful websites and tools for developers and designers.
 * [CoDrops](https://tympanus.net/codrops/) : Inspiration for creative minds
 * [Dribble](https://dribbble.com) : Show and tell for designers
 * [Behance](https://www.behance.net/) : Artists portfolios and inspiration
-
-
+* [Lookup Design](https://lookup.design/) : Find Design Examples
+* [Landing Folio](https://www.landingfolio.com/) : Landing Page design inspiration
+* [Land-book](https://land-book.com/) : Website inspiration
+* [Code My UI](https://codemyui.com/) : Web Design & UI Inspiration with Code Snippets
+* [https://www.lapa.ninja/](https://www.lapa.ninja/) : Landing Page design inspiration
+* [Design Inspiration](https://www.designspiration.com/) : Design inspiration
+* [ArtStation](https://www.artstation.com/) : Artwork showcase
 
 
