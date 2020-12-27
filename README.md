@@ -29,7 +29,7 @@ My personal list of useful websites and tools for developers and designers.
 * [First Aid Git](http://firstaidgit.io/) : A searchable collection of the most frequently asked Git questions.
 * [MDN Web Docs](https://developer.mozilla.org/en-US/) : Resources for developers, by developers.
 * [Oh Shit, Git!?!](https://ohshitgit.com/) : How to get out of Git problems!
-* [Service Workers Cookbook](https://serviceworke.rs/) : The Service Worker Cookbook is a collection of working, practical examples of using service workers in modern web sites.
+* [Service Workers Cookbook](https://serviceworke.rs/) : Collection of working, practical examples of using service workers in modern web sites.
 * [Underdash](https://surma.github.io/underdash/) : Underdash is a collection of snippets for array and iterator manipulation.
 * [use Hooks](https://usehooks.com/) : Easy to understand React Hook recipes by Gabe Ragland.
 * [Google Web Dev](https://web.dev/) : Learn about web development and performance.
