@@ -20,7 +20,7 @@ My personal list of useful websites and tools for developers and designers.
 * [DevDocs](http://devdocs.io) : Multiple APIs documentation.
 * [CSS Reference](https://cssreference.io/) : A free visual guide to CSS.
 * [Modern CSS](https://moderncss.dev/) : Modern CSS solutions for old CSS problems.
-* [The Front-End Checklist](https://frontendchecklist.io/) :  The Front-End Checklist Application is perfect for modern websites and meticulous developers! 
+* [The Front-End Checklist](https://frontendchecklist.io/) :  The Front-End Checklist is perfect for modern websites! 
 * [Character Entities](https://brajeshwar.github.io/entities/) : Character Entities for HTML, CSS and Javascript.
 * [30 seconds of code](https://www.30secondsofcode.org/) : Short code snippets for all your development needs.
 * [HTML DOM](https://htmldom.dev/) : How to manage HTML DOM with vanilla JavaScript only?
@@ -29,7 +29,7 @@ My personal list of useful websites and tools for developers and designers.
 * [First Aid Git](http://firstaidgit.io/) : A searchable collection of the most frequently asked Git questions.
 * [MDN Web Docs](https://developer.mozilla.org/en-US/) : Resources for developers, by developers.
 * [Oh Shit, Git!?!](https://ohshitgit.com/) : How to get out of Git problems!
-* [Service Workers Cookbook](https://serviceworke.rs/) : Collection of working, practical examples of using service workers in modern web sites.
+* [Service Workers Cookbook](https://serviceworke.rs/) : Collection of practical examples of using service workers in modern web sites.
 * [Underdash](https://surma.github.io/underdash/) : Underdash is a collection of snippets for array and iterator manipulation.
 * [use Hooks](https://usehooks.com/) : Easy to understand React Hook recipes by Gabe Ragland.
 * [Google Web Dev](https://web.dev/) : Learn about web development and performance.
@@ -64,7 +64,7 @@ My personal list of useful websites and tools for developers and designers.
 * [Feather Icons](https://feathericons.com/) : Simply beautiful open source icons.
 * [Tabler Icons](https://tablericons.com/) : Fully customizable free SVG icons. (MIT license). 
 * [Material UI Icons](https://material.io/resources/icons/) : Material icons are delightful, beautifully crafted symbols for common actions and items. 
-* [Ikonate Icons](https://ikonate.com/) : Ikonate are fully customisable & accessible*, well-optimised vector icons (MIT-licensed).
+* [Ikonate Icons](https://ikonate.com/) : Ikonate are fully customisable & accessible, well-optimised vector icons (MIT-licensed).
 * [Streamline Icons](https://streamlineicons.com/) : Large library of over 30k icons. (Payed). 
 
 ## Typography
