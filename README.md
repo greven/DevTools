@@ -55,6 +55,7 @@ My personal list of useful websites and tools for developers and designers.
 * [https://www.lapa.ninja/](https://www.lapa.ninja/) : Landing Page design inspiration.
 * [Design Inspiration](https://www.designspiration.com/) : Design inspiration.
 * [ArtStation](https://www.artstation.com/) : Artwork showcase.
+* [Landings](https://landings.dev/) : Collection of Landing Page Examples
 
 # Icons
 
